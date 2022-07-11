@@ -26,8 +26,6 @@ Tianshi Bu
              </put>
         </davClient>
 ```
-## Demo
-https://devci.smartequip.net/jenkins/job/APlant%20FrontEnd%20on%20Dev.smartequip.net%20(5.2.7%20branch)/configure
 
 
 
